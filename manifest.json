@@ -1,0 +1,15 @@
+
+{
+  "manifest_version": 3,
+  "name": "Quick Search & Links",
+  "version": "1.0",
+  "description": "A Chrome extension with a search bar and quick links to popular sites.",
+  "icons": {
+    "48": "icon.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": []
+}
